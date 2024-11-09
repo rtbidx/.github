@@ -1,3 +1,5 @@
+![banner](banner.jpg)
+
 # RTBX
 
 RTBX is dedicated to maintaining and evolving a robust, high-performance real-time bidding (RTB) platform hosted on AWS. Our platform empowers clients with powerful, scalable, and reliable bidding solutions, leveraging cutting-edge technology to meet the demands of the fast-paced digital advertising market.
